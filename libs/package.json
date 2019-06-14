@@ -1,0 +1,12 @@
+{
+  "name": "my-first-repository",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/suzh220/my-first-repository",
+  "author": "Suzh220 <51669424+Suzh220@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "4.0.0-beta.2",
+    "jquery": "^3.4.1"
+  }
+}
